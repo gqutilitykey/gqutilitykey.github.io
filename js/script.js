@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){document.querySelector(".button").addEventListener("click",(function(){window.location.href="https://direct-link.net/806961/muimi-hub-checkpoint"}))}));
